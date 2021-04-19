@@ -1,0 +1,3 @@
+D:/CLion/NFA/cmake-build-debug/CMakeFiles/NFA.dir
+D:/CLion/NFA/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion/NFA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
