@@ -46,6 +46,7 @@ void refa_traseu(int poz)
 bool eAcceptat(char *cuvant,short int nod_init)
 {
     int p=0;
+    D.clear();
     drum drum_curent;
     drum_curent.nod_curent=nod_init;
     drum_curent.poz_ant=-1;
